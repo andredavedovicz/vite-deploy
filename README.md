@@ -1,5 +1,8 @@
 <div align="center">
     <h2>⚙ V I T E &nbsp; D E P L O Y ⚙</h2>
+    <a href="https://andredavedovicz.github.io/vite-deploy/" target="_blank">Working in GitHub Pages</a>
+    <h3>How add a vite project(deploy) to GitHub Pages? </h3>
+    <h4>React: <a href="https://github.com/andredavedovicz/react-deploy" target="_blank">If you want to deploy a react app see this repository!</a></h4>
 </div>
 
 
