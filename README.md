@@ -1,10 +1,8 @@
 <div align="center">
-    <h2>⚜️ V I T E &nbsp; D E P L O Y ⚜️</h2>
+    <h2>⚙ V I T E &nbsp; D E P L O Y ⚙</h2>
 </div>
 
-<div align="center">
-    <a href="https://www.youtube.com/watch?v=XhoWXhyuW_I">youtube video</a>
-</div>
+
 
 <br>
 
