@@ -6,6 +6,7 @@
     </h2>
     <a href="https://andredavedovicz.github.io/vite-deploy/" target="_blank">Working in GitHub Pages</a>
     <h3>How add a vite project(deploy) to GitHub Pages? </h3>
+    <h3>Whenever you push to GitHub, it will deply automatically</h3>
     <h4>React: <a href="https://github.com/andredavedovicz/react-deploy" target="_blank">If you want to deploy a react app see this repository!</a></h4>
 </div>
 
@@ -112,4 +113,4 @@ git add .
 git commit -m "fix: some bug" 
 git push
 ```
-Whenever you push to GitHub, it will deply automatically
+<h3>Remember:Whenever you push to GitHub, it will deply automatically</h3>
