@@ -30,8 +30,12 @@ git branch -M main
 git remote add origin https://github.com/[USER]/[REPO_NAME] 
 git push -u origin main
 ```
+#### 03.1 Setup homepage on package.json
+```js
+"homepage": "https://[USER].github.io/[REPO_NAME]/"
+```
 
-#### 03. Setup base on *vite.config*
+#### 03.2 Setup base on *vite.config*
 ```js
 base: "/."
 ```
