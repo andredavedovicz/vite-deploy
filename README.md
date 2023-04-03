@@ -33,7 +33,7 @@ git push -u origin main
 
 #### 03. Setup base on *vite.config*
 ```js
-base: "/[REPO_NAME]/"
+base: "/."
 ```
 
 #### 04. Create ./github/workflows/deploy.yml and add the code bellow
